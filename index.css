@@ -1,15 +1,5 @@
 
-        /*
-            THE BASIC STYLES
-
-            Below are the styles that control most of the visuals for this page. They are the best place to start 
-            if you want to make the page your own. Try changing images, colours, fonts and text sizes to create your own look.
-            
-            You'll be amazed how different you can make this page look by only changing a few values.
-            
-            Some of the styles are explained here, some in other tutorials. Don't be afraid to change values, experimentation is one of
-            the best ways to learn!
-        */
+      
         body {
             font-family:Georgia;
             font-size:13px;
@@ -23,7 +13,7 @@
         }
         h1.logo {
             color:white;
-            padding:4%;
+            padding:5%;
             border-radius:50%;
             font-size:50px;
             font-style:italic;
@@ -54,7 +44,7 @@
         /* Photo */
         .image {
             -webkit-box-shadow:  0px 0px 2px 4px rgba(0, 0, 0, 0.1);
-                    box-shadow:  0px 0px 2px 4px rgba(0, 0, 0, 0.1);
+                    box-shadow:  0px 0px 1px 4px rgba(0, 0, 0, 0.1);
         }
         .image h2 {
             font-size: 16px;
@@ -111,7 +101,7 @@
         /* Footer */
         .footer-wrap {
             margin: 0 2%;
-            padding: 30px 0 50px 0;
+            padding: 31px 0 50px 0;
             border-top: 1px solid white;
             color: white;
             
