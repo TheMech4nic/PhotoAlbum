@@ -13,10 +13,10 @@
         }
         h1.logo {
             color:white;
-            padding:5%;
+            padding:6%;
             border-radius:50%;
             font-size:50px;
-            font-style:italic;
+            font-style:bold;
             
             /* Shadow behind text */
             text-shadow: 1px 1px 2px #6f828f;
