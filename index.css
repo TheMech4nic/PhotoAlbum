@@ -36,7 +36,7 @@
         /* Intro */        
         .intro-block p {
             font-size:18px;
-            font-style:italic;
+            font-style:bold;
             color:#595959;
             margin:40px 0;
         }
@@ -47,7 +47,7 @@
                     box-shadow:  0px 0px 1px 4px rgba(0, 0, 0, 0.1);
         }
         .image h2 {
-            font-size: 16px;
+            font-size: 15px;
         }
         .image img {
             min-height:230px;
@@ -91,7 +91,7 @@
        
         .caption {
             color:#999999;
-            background: white;
+            background: black;
             font-style:italic;
         }
         .caption h2 {
